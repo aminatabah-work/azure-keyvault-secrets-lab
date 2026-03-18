@@ -30,3 +30,7 @@ I created this project to strengthen my Azure cloud engineering skills and demon
 ## Status
 
 In progress.
+
+## Architecture
+
+See detailed architecture: [ARCHITECTURE.md](./ARCHITECTURE.md)
