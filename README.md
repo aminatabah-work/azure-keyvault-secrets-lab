@@ -16,6 +16,8 @@ The goal of this project is to show how Azure Key Vault can be used to securely 
 
 This project demonstrates secure secret storage using Azure Key Vault rather than hardcoding credentials directly into infrastructure files or applications.
 
+Note: This lab uses a placeholder sample secret value for demonstration purposes only.
+
 ## Tools Used
 
 - Terraform
