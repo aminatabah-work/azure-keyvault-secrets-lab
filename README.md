@@ -6,7 +6,7 @@ This project demonstrates how to provision Azure Key Vault resources using Terra
 
 The goal of this project is to show how Azure Key Vault can be used to securely store and manage secrets as part of an Infrastructure as Code (IaC) workflow. This project provisions foundational Azure resources and includes a Key Vault with a sample secret.
 
-## Planned Azure Resources
+## Azure Resources
 
 - Azure Resource Group
 - Azure Key Vault
@@ -31,7 +31,7 @@ I created this project to strengthen my Azure cloud engineering skills and demon
 
 ## Status
 
-In progress.
+Portfolio lab complete
 
 ## Architecture
 
